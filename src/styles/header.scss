@@ -1,0 +1,25 @@
+.Navigation{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 50px;
+
+   span{
+      flex:5;
+    }
+
+   img {
+      max-width:70px;
+   }
+
+    ul {
+      list-style-type: none;
+      display: flex;
+      
+      gap:20px;
+      justify-content: space-between;
+   }
+}
+ 
+
+
+
