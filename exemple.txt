@@ -1,0 +1,6 @@
+ctr + % -> terminal
+
+npx create-react-app exemple
+
+
+
