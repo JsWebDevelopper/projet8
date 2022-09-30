@@ -22,7 +22,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  gap: 20px;
+  gap: 30px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
